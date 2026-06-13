@@ -1,0 +1,16 @@
+Emp_id,First name,Last name,Age,Email,Salary_npr,Joining_date,City
+1,Ram,Sharma,26,ram.sharma@gmail.com,50000,2024/01/01,Kathmandu
+2,Hari,Shrestha,,hari.shrestha@gmail.com,60000,2023-05-10,Lalitpur
+3,Sita,Gurung,23,sita.gurung@gmail.com,45000,2022/11/15,Bhaktapur
+4,Anil,Thapa,30,anil.thapa@gmail.com,,2023/03/20,
+5,Maya,Magar,,maya.magar@gmail.com,55000,2021-07-01,Pokhara
+6,Rajendra,Adhikari,35,rajendra.adhikari@gmail.com,abc,2023/01/15,Butwal
+7,Sunita,KC,27,sunita.kc@gmail.com,52000,2024-02-18,Kathmandu
+8,Binod,Shrestha,22,binod.shrestha@gmail.com,,2023-09-10,Dharan
+9,Prakash,Basnet,31,prakash.basnet@gmail.com,70000,2023-06-30,Kathmandu
+10,Nisha,Joshi,25,nisha.joshi@gmail.com,48000,2024/03/12,Lalitpur
+11,Ram,Sharma,29,ram.bahadur@gmail.com,50000,2023/11/05,
+12,Sarita,Thapa,28,sarita.thapa@gmail.com,45000,2022/12/25,Pokhara
+13,Anita,Shrestha,,anita.shrestha@gmail.com,55000,2024-02-28,Lalitpur
+14,Raju,KC,30,raju.kc@gmail.com,60000,2023-07-15,
+15,Suman,Gurung,27,suman.gurung@gmail.com,abc,2024-01-20,Pokhara
